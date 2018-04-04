@@ -1,0 +1,2 @@
+1. geschwindigkeiten <-> Äquilibrierungszeiten/ Massenverteilungen
+2. Paarkorrelationsfunktion: Ordnungsgrad des Systems / g(r) Abstand Verteilung / Aggregatzustand

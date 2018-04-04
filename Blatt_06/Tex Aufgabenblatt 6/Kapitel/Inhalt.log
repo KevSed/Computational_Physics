@@ -1,0 +1,1886 @@
+This is LuaTeX, Version beta-0.76.0-2013121407 (rev 4627)  (format=lualatex 2014.11.23)  6 JUN 2017 18:55
+ restricted \write18 enabled.
+**Inhalt.tex
+(./Inhalt.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 9 languages loaded.
+! Undefined control sequence.
+l.1 \maketitle
+            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2 \section
+          {Molekulardynamik Simulation: 2D Lennard-Jones Fluid}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \section{M
+            olekulardynamik Simulation: 2D Lennard-Jones Fluid}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+! Undefined control sequence.
+<recently read> \uuline 
+        
+l.4 $\uuline
+          {X}$ erstellt, deren Spaltenzahl der Teilchenanzahl $N$ entspricht...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--5
+[][]Molekulardynamik
+ []
+
+
+Overfull \hbox (45.63861pt too wide) in paragraph at lines 2--5
+\OT1/cmr/bx/n/10 Quadrat-
+ []
+
+
+Overfull \hbox (17.24991pt too wide) in paragraph at lines 2--5
+\OT1/cmr/bx/n/10 git-
+ []
+
+
+Overfull \hbox (14.47911pt too wide) in paragraph at lines 2--5
+\OT1/cmr/bx/n/10 ter\nullfont ,
+ []
+
+
+Overfull \hbox (9.06943pt too wide) in paragraph at lines 2--5
+\OML/cmm/m/it/10 X$
+ []
+
+
+Overfull \hbox (9.12497pt too wide) in paragraph at lines 2--5
+\OML/cmm/m/it/10 N$
+ []
+
+
+Overfull \hbox (5.2616pt too wide) in paragraph at lines 2--5
+\OML/cmm/m/it/10 y$\nullfont -
+ []
+
+
+Overfull \hbox (5.2616pt too wide) in paragraph at lines 2--5
+\OML/cmm/m/it/10 y$\nullfont -Komponente
+ []
+
+! Undefined control sequence.
+l.6 \uuline
+         {X}=
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.8 x_1 &
+        x_2 & \dots & x_j &\dots & x_N \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.8 x_1 & x_2 &
+              \dots & x_j &\dots & x_N \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.8 x_1 & x_2 & \dots &
+                      x_j &\dots & x_N \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.8 x_1 & x_2 & \dots & x_j &
+                           \dots & x_N \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.8 x_1 & x_2 & \dots & x_j &\dots &
+                                   x_N \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.9 y_1 &
+        y_2 & \dots & y_j &\dots & y_N
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.9 y_1 & y_2 &
+              \dots & y_j &\dots & y_N
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.9 y_1 & y_2 & \dots &
+                      y_j &\dots & y_N
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.9 y_1 & y_2 & \dots & y_j &
+                           \dots & y_N
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.9 y_1 & y_2 & \dots & y_j &\dots &
+                                   y_N
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (183.63765pt too wide) detected at line 11
+\OML/cmm/m/it/10 X \OT1/cmr/m/n/10 = [][] \OML/cmm/m/it/10 x[] [] x[] [] x[][] 
+y[]y[] [] y[] [] y[] :
+ []
+
+! Undefined control sequence.
+l.12 ...ann ist der Teilchenabstand $\Delta r_{\text
+                                                  {initial}}$ gegeben durch
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (36.70407pt too wide) in paragraph at lines 11--13
+\OT1/cmr/m/n/10 \OML/cmm/m/it/10 r[]$
+ []
+
+! Undefined control sequence.
+l.14 \Delta r_{\text
+                  {initial}}=\frac{L}{\sqrt{N}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (69.89561pt too wide) detected at line 15
+\OT1/cmr/m/n/10 \OML/cmm/m/it/10 r[] \OT1/cmr/m/n/10 = []
+ []
+
+! Undefined control sequence.
+<write> 
+LaTeX Warning: Reference `bin' on page \thepage 
+                                                 \space undefined\on@line .
+l.16 ...e Teilchen werden wie in Abbildung \ref{bin}
+                                                   a) dargestellt positioniert.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `bin' on page  undefined on input line 16.
+
+! Undefined control sequence.
+<recently read> \uuline 
+        
+l.17 ... erstellt analog zur Teilchenmatrix $\uuline
+                                                  {X}$ eine Geschwindigkeits...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \uuline 
+        
+l.18  $\uuline
+            {V}$, die die Geschwindigkeiten der $N$ Teilchen enthält:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 15--19
+[]
+ []
+
+
+Overfull \hbox (21.08322pt too wide) in paragraph at lines 15--19
+\OT1/cmr/bx/n/10 init-
+ []
+
+
+Overfull \hbox (81.619pt too wide) in paragraph at lines 15--19
+\OT1/cmr/bx/n/10 Geschwindigkeit
+ []
+
+
+Overfull \hbox (9.06943pt too wide) in paragraph at lines 15--19
+\OML/cmm/m/it/10 X$
+ []
+
+
+Overfull \hbox (8.05556pt too wide) in paragraph at lines 15--19
+\OML/cmm/m/it/10 V$\nullfont ,
+ []
+
+
+Overfull \hbox (9.12497pt too wide) in paragraph at lines 15--19
+\OML/cmm/m/it/10 N$
+ []
+
+! Misplaced alignment tab character &.
+l.22 v_1^x &
+           v_2^x & \dots & v_j^x &\dots & v_N^x \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.22 v_1^x & v_2^x &
+                   \dots & v_j^x &\dots & v_N^x \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.22 v_1^x & v_2^x & \dots &
+                           v_j^x &\dots & v_N^x \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.22 v_1^x & v_2^x & \dots & v_j^x &
+                                  \dots & v_N^x \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.22 v_1^x & v_2^x & \dots & v_j^x &\dots &
+                                          v_N^x \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.23 v_1^y &
+           v_2^y & \dots & v_j^y &\dots & v_N^y
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.23 v_1^y & v_2^y &
+                   \dots & v_j^y &\dots & v_N^y
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.23 v_1^y & v_2^y & \dots &
+                           v_j^y &\dots & v_N^y
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.23 v_1^y & v_2^y & \dots & v_j^y &
+                                  \dots & v_N^y
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.23 v_1^y & v_2^y & \dots & v_j^y &\dots &
+                                          v_N^y
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (184.23473pt too wide) detected at line 25
+[] \OT1/cmr/m/n/10 = [][] \OML/cmm/m/it/10 v[] [] v[] [] v[][] v[]v[] [] v[] []
+ v[] :
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 25--27
+[]$
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 25--27
+\OT1/cmr/m/n/10 0$
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 25--27
+\OT1/cmr/m/n/10 1$
+ []
+
+! Undefined control sequence.
+l.28 \vec{v}_{\text
+                 {Schwerp}}=\frac{1}{N}\sum_{j=1}^N
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (88.41061pt too wide) detected at line 30
+[] \OT1/cmr/m/n/10 = [] [] [][]
+ []
+
+
+Overfull \hbox (10.32988pt too wide) in paragraph at lines 30--32
+\OML/cmm/m/it/10 T[]$
+ []
+
+
+Overfull \hbox (44.9997pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/it/10 Isokinetis-
+ []
+
+
+Overfull \hbox (18.52763pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/it/10 cher
+ []
+
+
+Overfull \hbox (24.66092pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/it/10 Ther-
+ []
+
+
+Overfull \hbox (16.86656pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/it/10 mo-
+ []
+
+
+Overfull \hbox (15.84433pt too wide) in paragraph at lines 30--32
+\OT1/cmr/m/it/10 stat
+ []
+
+
+Overfull \hbox (13.43987pt too wide) in paragraph at lines 30--32
+\OML/cmm/m/it/10 T[]$
+ []
+
+
+Overfull \hbox (95.2831pt too wide) detected at line 34
+\OML/cmm/m/it/10 T[] \OT1/cmr/m/n/10 = [] [] []
+ []
+
+
+Overfull \hbox (13.2188pt too wide) in paragraph at lines 34--36
+\OML/cmm/m/it/10 N[]$
+ []
+
+
+Overfull \hbox (85.53725pt too wide) detected at line 38
+\OML/cmm/m/it/10 N[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 N \OMS/cmsy/m/n/10  \O
+ML/cmm/m/it/10 dim \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 dim :
+ []
+
+
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 38--40
+\OML/cmm/m/it/10 $
+ []
+
+
+Overfull \hbox (50.05154pt too wide) detected at line 42
+\OML/cmm/m/it/10  \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/10 :
+ []
+
+
+Overfull \hbox (16.80547pt too wide) in paragraph at lines 42--44
+\OT1/cmr/bx/n/10 RB
+ []
+
+
+Overfull \hbox (8.58533pt too wide) in paragraph at lines 42--44
+\OML/cmm/m/it/10 r[]$\nullfont .
+ []
+
+
+Overfull \hbox (35.56853pt too wide) detected at line 46
+\OML/cmm/m/it/10 r[] \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/10 :
+ []
+
+
+Overfull \hbox (16.69435pt too wide) in paragraph at lines 46--48
+\OT1/cmr/bx/n/10 LJ-
+ []
+
+
+Overfull \hbox (27.1457pt too wide) in paragraph at lines 46--48
+\OT1/cmr/bx/n/10 Force
+ []
+
+! Undefined control sequence.
+l.49 \vec{F}_{\text
+                 {LJ}}=24\varepsilon\cdot \frac{\vec{r}}{r^2}\left(2
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (155.13297pt too wide) detected at line 52
+[] \OT1/cmr/m/n/10 = 24\OML/cmm/m/it/10 " \OMS/cmsy/m/n/10  [] []  \OML/cmm/m/
+it/10 ;
+ []
+
+! Undefined control sequence.
+<write> 
+LaTeX Warning: Reference `bin' on page \thepage 
+                                                 \space undefined\on@line .
+l.53 ...ac{L}{2}$, so ist wie in Abbildung \ref{bin}
+                                                   b) zu sehen der Abstand $...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `bin' on page  undefined on input line 53.
+
+! Undefined control sequence.
+l.54 ...erpunktgeschwindigkeit nach Gleichung \eqref
+                                                  {vsp} berechnet, sowie die...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (8.58533pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 r[]$\nullfont .
+ []
+
+
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 i$
+ []
+
+
+Overfull \hbox (15.246pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 j \OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 i$
+ []
+
+
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 i$
+ []
+
+
+Overfull \hbox (7.49605pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 j[]$
+ []
+
+
+Overfull \hbox (6.80557pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 L$
+ []
+
+
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 j$
+ []
+
+
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 j$
+ []
+
+
+Overfull \hbox (6.80557pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 L$
+ []
+
+
+Overfull \hbox (7.88614pt too wide) in paragraph at lines 52--56
+[]$
+ []
+
+
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 i$
+ []
+
+
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 j$
+ []
+
+
+Overfull \hbox (47.60411pt too wide) in paragraph at lines 52--56
+[] \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (7.88614pt too wide) in paragraph at lines 52--56
+[]$,
+ []
+
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 52--56
+[]
+ []
+
+
+Overfull \hbox (46.01031pt too wide) in paragraph at lines 52--56
+[] \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (7.88614pt too wide) in paragraph at lines 52--56
+[]$,
+ []
+
+
+Overfull \hbox (15.246pt too wide) in paragraph at lines 52--56
+[] \OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (7.49605pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 j[]$
+ []
+
+
+Overfull \hbox (7.84087pt too wide) in paragraph at lines 52--56
+[]$
+ []
+
+
+Overfull \hbox (16.50294pt too wide) in paragraph at lines 52--56
+[] \OMS/cmsy/m/n/10  
+ []
+
+
+Overfull \hbox (11.43002pt too wide) in paragraph at lines 52--56
+[]$
+ []
+
+
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 i$
+ []
+
+
+Overfull \hbox (34.8748pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 Naech-
+ []
+
+
+Overfull \hbox (60.35661pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 stesTeilchen
+ []
+
+
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 i$
+ []
+
+
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 j$
+ []
+
+
+Overfull \hbox (7.49605pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 j[]$
+ []
+
+
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 i$
+ []
+
+
+Overfull \hbox (27.32623pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 Kraft
+ []
+
+
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 i$\nullfont ,
+ []
+
+
+Overfull \hbox (18.62157pt too wide) in paragraph at lines 52--56
+\OML/cmm/m/it/10 T\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (29.38873pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 Schw-
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 er-
+ []
+
+
+Overfull \hbox (29.06929pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 punk-
+ []
+
+
+Overfull \hbox (8.30551pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 t-
+ []
+
+
+Overfull \hbox (78.32736pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 geschwindigkeit\nullfont ,
+ []
+
+
+Overfull \hbox (36.95952pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 kinetis-
+ []
+
+
+Overfull \hbox (34.22899pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 cheEn-
+ []
+
+
+Overfull \hbox (24.22212pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 ergie
+ []
+
+
+Overfull \hbox (16.29158pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 po-
+ []
+
+
+Overfull \hbox (19.96518pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 ten-
+ []
+
+
+Overfull \hbox (42.37479pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 tielleEn-
+ []
+
+
+Overfull \hbox (24.22212pt too wide) in paragraph at lines 52--56
+\OT1/cmr/bx/n/10 ergie
+ []
+
+! Undefined control sequence.
+l.57 E_{\text
+           {kin}}=\frac{m}{2}\sum_{i=1}^N \left(\vec{v}_i\right)^2
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (82.80624pt too wide) detected at line 58
+\OML/cmm/m/it/10 E[] \OT1/cmr/m/n/10 = [] [] [][]
+ []
+
+! Undefined control sequence.
+l.61 E_{\text
+           {pot}}=\frac{1}{2}\sum_{i=1}^N \left(
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (189.12486pt too wide) detected at line 66
+\OML/cmm/m/it/10 E[] \OT1/cmr/m/n/10 = [] [] []  \OML/cmm/m/it/10 ;
+ []
+
+
+Overfull \hbox (11.55443pt too wide) in paragraph at lines 66--68
+\OML/cmm/m/it/10 r[]$
+ []
+
+
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 66--68
+\OML/cmm/m/it/10 i$
+ []
+
+
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 66--68
+\OML/cmm/m/it/10 j$
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 \begin{equation}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+! Undefined control sequence.
+<write> \newlabel{vsp}{{4}{\thepage 
+                            }}
+l.68 \begin{equation}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{vsp}{{4}{}}
+]
+! Undefined control sequence.
+l.69 T(t)= \frac{2}{k_B N_f}\cdot E_{\text
+                                        {kin}}\,.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (86.95953pt too wide) detected at line 70
+\OML/cmm/m/it/10 T\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = [] \OM
+S/cmsy/m/n/10  \OML/cmm/m/it/10 E[] :
+ []
+
+! Undefined control sequence.
+<write> ... Warning: Reference `Energie' on page \thepage 
+                                                  \space undefined\on@line .
+l.71 ... und der Energien in Abbildung \ref{Energie}
+                                                   dargestellt\,.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `Energie' on page  undefined on input line 71.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \begin{figure}
+                 [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74     \begin{subfigure}
+                        [b]{0.48\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+}
+l.74     \begin{subfigure}[b]{0.48\textwidth}
+                                           
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+}
+l.74     \begin{subfigure}[b]{0.48\textwidth}
+                                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Undefined control sequence.
+l.75         \includegraphics
+                           [width=\textwidth]{Abbildungen/EnergieT0.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+]
+l.75         \includegraphics[width=\textwidth]
+                                             {Abbildungen/EnergieT0.pdf}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+]
+l.75         \includegraphics[width=\textwidth]
+                                             {Abbildungen/EnergieT0.pdf}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76         \caption
+                   {Energieverlauf}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77     \end{subfigure}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78     \begin{subfigure}
+                        [b]{0.48\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+}
+l.78     \begin{subfigure}[b]{0.48\textwidth}
+                                           
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+}
+l.78     \begin{subfigure}[b]{0.48\textwidth}
+                                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Undefined control sequence.
+l.79         \includegraphics
+                           [width=\textwidth]{Abbildungen/TempT0.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+]
+l.79         \includegraphics[width=\textwidth]
+                                             {Abbildungen/TempT0.pdf}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+]
+l.79         \includegraphics[width=\textwidth]
+                                             {Abbildungen/TempT0.pdf}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80            \caption
+                      {Temperaturverlauf}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81    \end{subfigure}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82    \caption
+              {Verlauf der kinetischen, potentiellen und gesammten Energie, ...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83    \end{figure}
+                  \noindent
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+<write> ...eX Warning: Reference `swpkt' on page \thepage 
+                                                  \space undefined\on@line .
+l.84 ...hwindigkeit, welche in Abbildung \ref{swpkt}
+                                                   dargestellt ist, zeigt nu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `swpkt' on page  undefined on input line 84.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85  \begin{figure}
+                  [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.87 \includegraphics
+                   [width=0.6\textwidth]{Abbildungen/SwpktT0.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+]
+l.87 \includegraphics[width=0.6\textwidth]
+                                        {Abbildungen/SwpktT0.pdf}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+]
+l.87 \includegraphics[width=0.6\textwidth]
+                                        {Abbildungen/SwpktT0.pdf}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 \caption
+           {Entwicklung der $x$- und $y$-Komponente der Schwerpunktgeschwind...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \end{figure}
+               \noindent
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+<write> 
+LaTeX Warning: Reference `bin' on page \thepage 
+                                                 \space undefined\on@line .
+l.94 ...cke $\frac{L}{2}$ wie in Abbildung \ref{bin}
+                                                   c) gezeigt in $N_{\text{b...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `bin' on page  undefined on input line 94.
+
+! Undefined control sequence.
+l.94 ... Abbildung \ref{bin} c) gezeigt in $N_{\text
+                                                  {bin}}$ Abschnitte der Länge
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (17.78816pt too wide) in paragraph at lines 70--95
+\OML/cmm/m/it/10 T \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (17.56966pt too wide) in paragraph at lines 70--95
+\OT1/cmr/m/n/10 1[]$
+ []
+
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 70--95
+[]
+ []
+
+
+Overfull \hbox (20.88539pt too wide) in paragraph at lines 70--95
+\OML/cmm/m/it/10 T[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (17.56966pt too wide) in paragraph at lines 70--95
+\OT1/cmr/m/n/10 1[]$[]
+ []
+
+
+Overfull \hbox (14.16663pt too wide) in paragraph at lines 70--95
+\OML/cmm/m/it/10 t \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 70--95
+\OT1/cmr/m/n/10 5$
+ []
+
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 70--95
+[]
+ []
+
+
+Overfull \hbox (24.7223pt too wide) in paragraph at lines 70--95
+\OT1/cmr/m/n/10 10[]$\nullfont . 
+ []
+
+
+Overfull \hbox (5.71527pt too wide) in paragraph at lines 70--95
+\OML/cmm/m/it/10 x$\nullfont -
+ []
+
+
+Overfull \hbox (5.2616pt too wide) in paragraph at lines 70--95
+\OML/cmm/m/it/10 y$\nullfont -Komponente
+ []
+
+
+Overfull \hbox (20.88539pt too wide) in paragraph at lines 70--95
+\OML/cmm/m/it/10 T[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 70--95
+\OT1/cmr/m/n/10 1$\nullfont .
+ []
+
+
+Overfull \hbox (38.79143pt too wide) in paragraph at lines 70--95
+\OT1/cmr/bx/n/10 Paarko-
+ []
+
+
+Overfull \hbox (8.56941pt too wide) in paragraph at lines 70--95
+\OT1/cmr/bx/n/10 r-
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 70--95
+\OT1/cmr/bx/n/10 re-
+ []
+
+
+Overfull \hbox (12.61797pt too wide) in paragraph at lines 70--95
+\OT1/cmr/bx/n/10 la-
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 70--95
+\OT1/cmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 70--95
+\OML/cmm/m/it/10 i$
+ []
+
+
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 70--95
+\OML/cmm/m/it/10 j$
+ []
+
+
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 70--95
+\OML/cmm/m/it/10 i$
+ []
+
+
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 70--95
+\OML/cmm/m/it/10 j$
+ []
+
+
+Overfull \hbox (7.88614pt too wide) in paragraph at lines 70--95
+[]$
+ []
+
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 70--95
+[]
+ []
+
+
+Overfull \hbox (19.82399pt too wide) in paragraph at lines 70--95
+\OML/cmm/m/it/10 N[]$
+ []
+
+! Undefined control sequence.
+<argument> 2\cdot N_{\text 
+                {bin}}
+l.96 \Delta r=\frac{L}{2\cdot N_{\text{bin}}}
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (60.90207pt too wide) detected at line 97
+\OT1/cmr/m/n/10 \OML/cmm/m/it/10 r \OT1/cmr/m/n/10 = []
+ []
+
+! Undefined control sequence.
+l.98 unterteilt wird, also ein $N_{\text
+                                      {bin}}$-dimensionaler Vektor erzeugt w...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (19.82399pt too wide) in paragraph at lines 97--99
+\OML/cmm/m/it/10 N[]$\nullfont -dimensionaler
+ []
+
+
+Overfull \hbox (34.34372pt too wide) in paragraph at lines 97--99
+[]$
+ []
+
+
+Overfull \hbox (128.6167pt too wide) detected at line 101
+\OML/cmm/m/it/10 l \OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 \OML/cmm/m/it/10 r < [] 
+< [] \OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 \OML/cmm/m/it/10 r ;
+ []
+
+
+Overfull \hbox (3.18057pt too wide) in paragraph at lines 101--103
+\OML/cmm/m/it/10 l$\nullfont -te
+ []
+
+
+Overfull \hbox (17.01736pt too wide) in paragraph at lines 101--103
+[]$
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 101--103
+\OT1/cmr/m/n/10 1$
+ []
+
+
+Overfull \hbox (69.41841pt too wide) detected at line 105
+\OML/cmm/m/it/10 g [] \OT1/cmr/m/n/10 = []
+ []
+
+
+Overfull \hbox (32.19507pt too wide) detected at line 109
+\OML/cmm/m/it/10  \OT1/cmr/m/n/10 = []
+ []
+
+
+Overfull \hbox (5.95836pt too wide) in paragraph at lines 109--111
+\OML/cmm/m/it/10 l \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (13.12273pt too wide) in paragraph at lines 109--111
+\OT1/cmr/m/n/10 \OML/cmm/m/it/10 r$
+ []
+
+
+Overfull \hbox (30.95831pt too wide) in paragraph at lines 109--111
+[] \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (13.12273pt too wide) in paragraph at lines 109--111
+\OT1/cmr/m/n/10 \OML/cmm/m/it/10 r$
+ []
+
+
+Overfull \hbox (159.0403pt too wide) detected at line 114
+\OT1/cmr/m/n/10 \OML/cmm/m/it/10 V[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10  []
+ []
+
+! Undefined control sequence.
+<write> 
+LaTeX Warning: Reference `Paar' on page \thepage 
+                                                  \space undefined\on@line .
+l.115 ...epsilon}{k_B}$ sind in Abbildung \ref{Paar}
+                                                   dargestellt.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `Paar' on page  undefined on input line 115.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 \begin{figure}
+                  [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118     \begin{subfigure}
+                         [b]{0.48\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+}
+l.118     \begin{subfigure}[b]{0.48\textwidth}
+                                            
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+}
+l.118     \begin{subfigure}[b]{0.48\textwidth}
+                                            
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Undefined control sequence.
+l.119         \includegraphics
+                            [width=\textwidth]{Abbildungen/gT0.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+]
+l.119         \includegraphics[width=\textwidth]
+                                              {Abbildungen/gT0.pdf}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+]
+l.119         \includegraphics[width=\textwidth]
+                                              {Abbildungen/gT0.pdf}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120         \caption
+                    {$T_0=1\frac{\varepsilon}{k_B}$}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121     \end{subfigure}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122     \begin{subfigure}
+                         [b]{0.48\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+}
+l.122     \begin{subfigure}[b]{0.48\textwidth}
+                                            
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+}
+l.122     \begin{subfigure}[b]{0.48\textwidth}
+                                            
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Undefined control sequence.
+l.123         \includegraphics
+                            [width=\textwidth]{Abbildungen/gT001.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+]
+l.123         \includegraphics[width=\textwidth]
+                                              {Abbildungen/gT001.pdf}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+]
+l.123         \includegraphics[width=\textwidth]
+                                              {Abbildungen/gT001.pdf}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124            \caption
+                       {$T_0=0.01\frac{\varepsilon}{k_B}$}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125    \end{subfigure}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126    \caption
+               {Paarverteilungsfunktionen für $T_0=1\frac{\varepsilon}{k_B}...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.127    $N_{\text
+                {bin}}=3000$ }\label{Paar}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128    \end{figure}
+                   \noindent
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.88539pt too wide) in paragraph at lines 114--130
+\OML/cmm/m/it/10 T[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (17.56966pt too wide) in paragraph at lines 114--130
+\OT1/cmr/m/n/10 1[]$
+ []
+
+
+Overfull \hbox (20.88539pt too wide) in paragraph at lines 114--130
+\OML/cmm/m/it/10 T[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (30.34747pt too wide) in paragraph at lines 114--130
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 01[]$
+ []
+
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 114--130
+[]
+ []
+
+
+Overfull \hbox (20.88539pt too wide) in paragraph at lines 114--130
+\OML/cmm/m/it/10 T[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (17.56966pt too wide) in paragraph at lines 114--130
+\OT1/cmr/m/n/10 1[]$
+ []
+
+
+Overfull \hbox (20.88539pt too wide) in paragraph at lines 114--130
+\OML/cmm/m/it/10 T[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (30.34747pt too wide) in paragraph at lines 114--130
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 01[]$
+ []
+
+
+Overfull \hbox (20.88539pt too wide) in paragraph at lines 114--130
+\OML/cmm/m/it/10 T[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (17.56966pt too wide) in paragraph at lines 114--130
+\OT1/cmr/m/n/10 1[]$
+ []
+
+
+Overfull \hbox (20.88539pt too wide) in paragraph at lines 114--130
+\OML/cmm/m/it/10 T[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (30.34747pt too wide) in paragraph at lines 114--130
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 01[]$\nullfont ,
+ []
+
+
+Overfull \hbox (16.3171pt too wide) in paragraph at lines 114--130
+\OML/cmm/m/it/10 h \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 114--130
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 01$
+ []
+
+
+Overfull \hbox (35.0001pt too wide) in paragraph at lines 114--130
+\OT1/cmr/m/n/10 1000000$
+ []
+
+
+Overfull \hbox (19.68048pt too wide) in paragraph at lines 114--130
+\OML/cmm/m/it/10 N \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 114--130
+\OT1/cmr/m/n/10 16$\nullfont ,
+ []
+
+
+Overfull \hbox (17.36108pt too wide) in paragraph at lines 114--130
+\OML/cmm/m/it/10 L \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (11.07292pt too wide) in paragraph at lines 114--130
+\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 $
+ []
+
+
+Overfull \hbox (30.3795pt too wide) in paragraph at lines 114--130
+\OML/cmm/m/it/10 N[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 114--130
+\OT1/cmr/m/n/10 3000$
+ []
+
+! Undefined control sequence.
+l.131  \min\left(V_{\text
+                       {LJ}}\left(r\right)\right)=-\varepsilon \quad\text{be...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.131 ...eft(r\right)\right)=-\varepsilon \quad\text
+                                                  {bei}\quad r_{min}=\sqrt[6...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (199.21683pt too wide) detected at line 132
+[] [] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 " [] r[] \OT1/cmr/m/
+n/10 = [][] \OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/
+10 12246\OML/cmm/m/it/10  :
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137  \begin{figure}
+                   [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.139 \includegraphics
+                    [width=0.6\textwidth]{Abbildungen/gT100.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+]
+l.139 \includegraphics[width=0.6\textwidth]
+                                         {Abbildungen/gT100.pdf}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+]
+l.139 \includegraphics[width=0.6\textwidth]
+                                         {Abbildungen/gT100.pdf}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 \caption
+            {Paarverteilungsfunktionen für $T_0=100\frac{\varepsilon}{k_B}$...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.141    $N_{\text
+                {bin}}=3000$ }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143 \end{figure}
+                \noindent
+(That makes 100 errors; please try again.)
+
+Here is how much of LuaTeX's memory you used:
+ 38 strings out of 494714
+ 100000,154059 words of node,token memory allocated
+ 31405 words of node memory still in use:
+   400 hlist, 32 vlist, 24 rule, 4 disc, 84 math, 864 glue, 120 kern, 85 penalty
+, 3602 glyph, 212 glue_spec, 1 temp, 1 if_stack, 4 write, 9 local_par, 1 dir nod
+es
+   avail lists: 2:11,3:86,4:141,5:29,6:671,7:280,9:96,10:51
+ 3770 multiletter control sequences out of 65536+600000
+ 27 fonts using 1073399 bytes
+ 18i,10n,14p,1688b,128s stack positions out of 5000i,500n,10000p,200000b,100000s
+!  ==> Fatal error occurred, no output PDF file produced!

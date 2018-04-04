@@ -1,0 +1,38 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+xi1, psi1 = np.genfromtxt('V=0', unpack='True')
+xi2, psi2 = np.genfromtxt('V=10', unpack='True')
+xi3, psi3 = np.genfromtxt('V=30', unpack='True')
+xi4, psi4 = np.genfromtxt('V=50', unpack='True')
+
+p1, value1 = np.genfromtxt('V=0_trans', unpack='True')
+p2, value2 = np.genfromtxt('V=10_trans', unpack='True')
+p3, value3 = np.genfromtxt('V=30_trans', unpack='True')
+p4, value4 = np.genfromtxt('V=50_trans', unpack='True')
+
+plt.plot(xi1, psi1, linewidth=1, label=r'$|\psi(\xi)|^2$ für V=0')
+plt.plot(xi2, psi2, linewidth=1, label=r'$|\psi(\xi)|^2$ für V=10')
+plt.plot(xi3, psi3, linewidth=1, label=r'$|\psi(\xi)|^2$ für V=30')
+plt.plot(xi4, psi4, linewidth=1, label=r'$|\psi(\xi)|^2$ für V=50')
+plt.axvline(-0.5, color='k', linestyle='--')
+plt.axvline(0.5, color='k', linestyle='--')
+plt.xlabel(r'$\xi$')
+plt.ylabel(r'$|\psi(\xi)|^2$')
+plt.grid()
+plt.legend(loc='best')
+plt.tight_layout()
+plt.savefig('Potentiale.pdf')
+plt.close()
+
+plt.plot(p1, value1, label='W\'keits-Vert. für V=0')
+plt.plot(p2, value2, label='W\'keits-Vert. für V=10')
+plt.plot(p3, value3, label='W\'keits-Vert. für V=30')
+plt.plot(p4, value4, label='W\'keits-Vert. für V=50')
+plt.xlabel(r't')
+plt.ylabel(r'p')
+plt.grid()
+plt.legend(loc='best')
+plt.tight_layout()
+plt.savefig('Transmission.pdf')
+plt.close()

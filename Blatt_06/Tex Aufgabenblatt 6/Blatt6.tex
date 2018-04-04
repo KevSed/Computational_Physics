@@ -1,0 +1,65 @@
+\documentclass[11pt,a4paper,twoside]{article}
+\input{Tex/global}
+\usepackage{braket}
+\usepackage{color}
+\usepackage{xcolor}
+\definecolor{dunkelgr}{cmyk}{1 0 1 0}
+\usepackage{bbm}
+\DeclareMathOperator{\Tr}{Tr}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{ulem}
+\usepackage{bbm}
+\newcommand{\Mit}{\quad\text{mit}\quad }
+\newcommand{\Und}{\quad\text{und}\quad }
+\newcommand{\fur}{\quad\text{für}\quad }
+
+
+\title{Computational Physics, Aufgabenblatt 6}
+\author{Kevin Sedlaczek, Mona Kalthoff}
+\date{Abgabe: 9. Juni 2017}
+
+\begin{document}
+\pagenumbering{Roman}
+
+
+
+% Anmerkung: Die Seitenraender wurden asymmetrisch gewaehlt,
+%            damit genug Platz fuer eine Klemmbindung da ist.
+%            Da neue Kapitel auf der rechten Seite (ungerade
+%            Seitennummer) beginnen sollten, muss ggf. am Ende
+%            des vorhergehenden Kapitels eine Leerseite
+%            eingefuegt werden:
+%
+%            \newpage
+%            \thispagestyle{empty}
+%            \ \\
+%            \newpage
+%
+%            Die Seitenraender koennen aber auch in der Datei Tex/global.tex
+%            veraendert werden.
+
+
+
+% >>> Hauptteil <<<
+
+
+
+\setcounter{page}{0}
+\pagenumbering{arabic}
+
+\input{Kapitel/Inhalt}
+
+
+% >>> Anhang <<<
+
+\begin{appendix}
+%\input{Kapitel/Anhang}
+\end{appendix}
+
+
+
+
+\end{document}
